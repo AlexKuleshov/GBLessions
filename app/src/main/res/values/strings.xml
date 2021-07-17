@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">GBLessions</string>
+    <string name="Textview">Привет</string>
+    <string name="button">Начать</string>
+    <string name="Переключить">Switch</string>
+    <string name="CheckBox">Подтвердить</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="switch1">Переключить</string>
+    <string name="name">EditText</string>
+    <string name="Text">Text</string>
+    <string name="Введите">Text</string>
+    <string name="Текст">Окно для ввода</string>
+    <string name="edittext">Введите текст</string>
+    <string name="EditName">Введите имя</string>
+    <string name="editphone">Введите телефон</string>
+    <string name="Emailadress">введите e-mail</string>
+    <string name="Number">Введите Number</string>
+    <string name="EditPassword">Введите пароль</string>
+
 </resources>
