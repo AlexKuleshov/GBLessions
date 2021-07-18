@@ -2,7 +2,6 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/earth_portrait"
     android:orientation="vertical">
 
     <Space
@@ -20,6 +19,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@android:color/holo_orange_light"
+            android:backgroundTint="#AF2F2F"
             android:text="@string/button_7" />
 
         <Button
@@ -27,6 +28,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@android:color/holo_orange_light"
+            android:backgroundTint="#AF2F2F"
             android:text="@string/button_8" />
 
         <Button
@@ -34,6 +37,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@android:color/holo_orange_light"
+            android:backgroundTint="#AF2F2F"
             android:text="@string/button_9" />
 
         <Button
@@ -41,6 +46,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@android:color/holo_orange_light"
+            android:backgroundTint="#AF2F2F"
             android:text="@string/button_to_share" />
     </LinearLayout>
 
@@ -164,6 +171,6 @@
     <Space
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2" />
+        android:layout_weight="1" />
 
 </LinearLayout>

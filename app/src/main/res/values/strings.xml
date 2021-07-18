@@ -1,20 +1,21 @@
 <resources>
     <string name="app_name">GBLessions</string>
-    <string name="Textview">Привет</string>
-    <string name="button">Начать</string>
-    <string name="Переключить">Switch</string>
-    <string name="CheckBox">Подтвердить</string>
-    <string name="togglebutton">ToggleButton</string>
-    <string name="switch1">Переключить</string>
-    <string name="name">EditText</string>
-    <string name="Text">Text</string>
-    <string name="Введите">Text</string>
-    <string name="Текст">Окно для ввода</string>
-    <string name="edittext">Введите текст</string>
-    <string name="EditName">Введите имя</string>
-    <string name="editphone">Введите телефон</string>
-    <string name="Emailadress">введите e-mail</string>
-    <string name="Number">Введите Number</string>
-    <string name="EditPassword">Введите пароль</string>
-
+    <string name="textview">TextView</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_0">0</string>
+    <string name="button_minus">-</string>
+    <string name="button_to_share">/</string>
+    <string name="button_multiply">*</string>
+    <string name="button_dot">.</string>
+    <string name="button_plus">+</string>
+    <string name="button_delete">C</string>
+    <string name="button_equally">=</string>
 </resources>
